@@ -1,16 +1,16 @@
-## Hi there 👋
+# About me 🙃
 
-<!--
-**The-Great1/The-Great1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Mechanical Engineer who is keen on building stuff. I am fascinated by intelligent systems and the endless possibilities they offer in improving human lives. I have picked up programming basics across C++, C, Python and SQL.
 
-Here are some ideas to get you started:
 
+- 🌱 I’m currently learning Machine Learning with Python
+- 🤔 I’m looking for help with resources, courses and general guidance towards AI/ML engineering
+- 👯 I’m looking to collaborate on projects that combine AI/ML with feats of engineering
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/great1/)
+
+
+<!--- 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: 
