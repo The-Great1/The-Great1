@@ -1,4 +1,4 @@
-# About me 🙃
+# About Me 🙃
 
 I am a Mechanical Engineer who is keen on building stuff. I am fascinated by intelligent systems and the endless possibilities they offer in improving human lives. I have picked up programming basics across C++, C, Python and SQL.
 
